@@ -2,8 +2,13 @@
 
 This repository contains the slides used to describe Stephanie in PyData Conference held on 2-3 September in Delhi.
 
-Title: Stephanie | Virtual Assistant At Your Service
-Author: Ujjwal Gupta
+Title: [Stephanie | Virtual Assistant At Your Service](slapbot.github.io)
+
+Author: [Ujjwal Gupta](ugupta41@gmail.com)
+
+Github: [Stephanie-VA](https://github.com/SlapBot/stephanie-va)
+
+Sounder: [Research Paper](https://slapbot.github.io/documentation/resources/algorithm/sounder.pdf)
 
 Slides:
 
@@ -14,5 +19,3 @@ Slides:
 - [PDF](https://github.com/SlapBot/PyData-Conf/blob/master/PyData%20Presentation.pdf)
 
 - [PPT](https://github.com/SlapBot/PyData-Conf/blob/master/PyData%20Presentation.pptx)
-
-- [Stephanie](slapbot.github.io)
