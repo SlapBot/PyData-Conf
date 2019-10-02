@@ -1,6 +1,16 @@
-# PyData-Conf
+# PyDataDelhi-17
 
 This repository contains the slides used to describe Stephanie in PyData Conference held on 2-3 September in Delhi.
+
+## Introduction
+
+This was my first tech talk where I spoke about [Stephanie](https://github.com/slapbot/stephanie-va) in [PyData](https://pydata.org/).
+
+The experience couldn't have been any better by interacting with other speakers and attendants about latest developments in the field of datascience.
+
+The talk discussed about the capabilities and architecture of Stephanie and [Sounder](https://github.com/slapbot/sounder)
+
+## Links
 
 Title: [Stephanie | Virtual Assistant At Your Service](https://slapbot.github.io/)
 
